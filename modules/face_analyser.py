@@ -4,7 +4,6 @@ from typing import Any
 import insightface
 
 import cv2
-import numpy as np
 import modules.globals
 from tqdm import tqdm
 from modules.typing import Frame
